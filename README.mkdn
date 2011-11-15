@@ -1,0 +1,7 @@
+To initialize your local repository for the ROM, use a command like this:
+
+    repo init -u git://github.com/Custom-ROM/manifest.git -b master
+
+Then to sync up:
+
+    repo sync

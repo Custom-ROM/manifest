@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <include name="sony.xml"/>
+
+  <project path="device/sony/tianchi" name="Custom-ROM/device-sony-tianchi" groups="device" remote="github" revision="master" />
+  <project path="device/sony/yukon" name="Custom-ROM/device-sony-yukon" groups="device" remote="github" revision="master" />
+
+</manifest>

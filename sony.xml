@@ -13,6 +13,8 @@
   <project path="vendor/sony/system/mkqcdtbootimg" name="mkqcdtbootimg" groups="device" remote="sony" revision="master" />
   <project path="vendor/sony/system/macaddrsetup" name="macaddrsetup" groups="device" remote="sony" revision="master" />
   <project path="vendor/sony/system/timekeep" name="timekeep" groups="device" remote="sony" revision="master" />
+  <project path="vendor/qcom" name="Custom-ROM/vendor_qcom" groups="device" remote="github" revision="master" />
+  <project path="vendor/sony" name="Custom-ROM/vendor_sony" groups="device" remote="github" revision="master" />
   <project path="device/qcom/sepolicy" name="device-qcom-sepolicy" groups="device" remote="sony" revision="master" />
   <project path="device/qcom/boringssl-compat" name="boringssl-compat" groups="device" remote="sony" revision="master" />
 
